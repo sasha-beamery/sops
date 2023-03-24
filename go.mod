@@ -1,6 +1,6 @@
-module github.com/sasha-beamery/sops/v3
+module github.com/sasha-beamery/sops
 
-replace go.mozilla.org/sops/v3 => github.com/sasha-beamery/sops/v3
+replace go.mozilla.org/sops => github.com/sasha-beamery/sops
 
 go 1.18
 
