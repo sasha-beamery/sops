@@ -146,4 +146,4 @@ require (
 	gopkg.in/urfave/cli.v1 v1.20.0 // indirect
 )
 
-replace go.mozilla.org/sops/v3 => github.com/sasha-beamery/sops/v3 v3.7.4
+replace go.mozilla.org/sops/v3 => github.com/sasha-beamery/sops/v3 oauthtoken-ci
