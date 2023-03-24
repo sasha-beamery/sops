@@ -1,4 +1,4 @@
-module sops
+module github.com/warwick-mitchell1/sops
 
 go 1.18
 
