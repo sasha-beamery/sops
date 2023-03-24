@@ -1,4 +1,4 @@
-module go.mozilla.org/sops/v3
+module sops
 
 go 1.18
 
@@ -35,6 +35,7 @@ require (
 	go.mozilla.org/gopgagent v0.0.0-20170926210634-4d7ea76ff71a
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	golang.org/x/net v0.0.0-20220708220712-1185a9018129
+	golang.org/x/oauth2 v0.0.0-20220630143837-2104d58473e0
 	golang.org/x/sys v0.0.0-20220712014510-0a85c31ab51e
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
 	google.golang.org/api v0.87.0
@@ -123,7 +124,6 @@ require (
 	github.com/stretchr/objx v0.3.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	golang.org/x/oauth2 v0.0.0-20220630143837-2104d58473e0 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220609170525-579cf78fd858 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
