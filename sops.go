@@ -34,7 +34,7 @@ be recalculated and compared with the MAC stored in the document to verify that 
 fraudulent changes have been applied. The MAC covers keys and values as well as their
 ordering.
 */
-package sops //import "go.mozilla.org/sops/v3"
+package sops //import "github.com/warwick-mitchell1/sops"
 
 import (
 	"crypto/rand"
