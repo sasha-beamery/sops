@@ -1,4 +1,6 @@
-module github.com/warwick-mitchell1/sops
+module github.com/sasha-beamery/sops/v3
+
+replace go.mozilla.org/sops/v3 => github.com/sasha-beamery/sops/v3
 
 go 1.18
 
