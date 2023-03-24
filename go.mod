@@ -1,4 +1,4 @@
-module github.com/sasha-beamery/sops/v3
+module go.mozilla.org/sops/v3
 
 go 1.18
 
