@@ -145,5 +145,3 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/urfave/cli.v1 v1.20.0 // indirect
 )
-
-replace go.mozilla.org/sops/v3 => github.com/sasha-beamery/sops/v3 v3.7.5
