@@ -1,4 +1,4 @@
-module github.com/sasha-beamery/sops
+module github.com/sasha-beamery/sops/v3
 
 replace go.mozilla.org/sops => github.com/sasha-beamery/sops
 
